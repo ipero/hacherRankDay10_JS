@@ -1,4 +1,7 @@
-# HackerRank Day 8: Dictionaries and Maps
-This challenge involves creating a dictionary object in JavaScript.
-I named my dictionary “phoneBook” and then I run check test if a particular
-name exist in the dictionary (object).
+# Hacker Rank Day 10: Binary Numbers
+Task:
+Given a base-10 integer, n, convert it to binary (base-2). Then find and print
+the base-10 integer denoting the maximum number of consecutive 1's in n's binary representation.
+
+Sample:
+The binary representation of 13 is 1101, so the maximum number of consecutive 1's is 2.
